@@ -1,1 +1,1 @@
-web: node server.js --env=dev
+web: npm install &&  node server.js --env=dev
